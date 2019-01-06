@@ -1,0 +1,19 @@
+{
+  "name": "bot1",
+  "version": "1.0.0",
+  "description": "My first twitter bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3develops/bot1.git"
+  },
+  "author": "Jonathan Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w3develops/bot1/issues"
+  },
+  "homepage": "https://github.com/w3develops/bot1#readme"
+}
